@@ -1,2 +1,0 @@
-# Coursera-repo
-Practice repository
